@@ -1,0 +1,14 @@
+{
+    "manifest_version": 3,
+    "name": "Defi Detective",
+    "version": "1.0",
+    "description": "A Defi Due Dilligence assistant",
+	"background": {
+        "service_worker": "script.js"
+    },
+    "icons": { 
+        "128": "icon128.png" },
+    "permissions": [
+        "contextMenus"
+    ]
+}
