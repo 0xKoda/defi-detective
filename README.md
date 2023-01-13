@@ -27,7 +27,7 @@ Current resources include:
 
 
 ## Installation
-First [download the ZIP](https://github.com/0xKoda/Defi-Detective/archive/refs/tags/V1.0.zip) and extract the contents. 
+First [download the ZIP](https://github.com/0xKoda/defi-detective/archive/refs/heads/main.zip) and extract the contents. 
     Ensure developer mode is turned on in your chromium browser's extension settings.
     Select "Load unpacked" in your extension settings and select the extracted folder.  
     Ensure the extension is enabled.
